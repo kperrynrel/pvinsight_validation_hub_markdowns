@@ -60,7 +60,7 @@ def detect_time_shifts(time_series,
 
 An automated results report containing the following metrics is returned following successful analysis:
 
-1) Mean average error (MAE) across all of the test cases. This mean average error is calculated at the time stamp level; the predicted time shift at each time stamp is compared to the ground-truth time shift.
+1) Mean average error (MAE) across all of the test cases. MAE is calculated at the time stamp level. The predicted time shift at each time stamp is compared to the ground-truth time shift, and error across all time shifts is calculated.
 2) Average run time per instance (in this case, by data stream), calculated in seconds
 3) Associated graphics, including error distributions color-coded by issue type (DST, partial DST, random shifts) and frequency of the time series evaluated (1 minute, 5 minute, 15 minute, etc.), and a distribution of instance run times. Some example graphic outputs are shown in Figures 3, 4, and 5.
 
