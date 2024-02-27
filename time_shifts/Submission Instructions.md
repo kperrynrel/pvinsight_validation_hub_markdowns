@@ -8,11 +8,11 @@ For each AC power stream analyzed, there are two sets of data:
 
 An example time series and its associated time shift data are shown in Figures 1 and 2, respectively. An example dataset is provided for reference here.
 
-![image info](./time_series_data.png)
+![image info](./time_series_data.PNG)
 
 *Figure 1; Snapshot of the structure of the time series data analyzed for time shifts.*
 
-![image info](./time_series_validation_data.png)
+![image info](./time_series_validation_data.PNG)
 
 *Figure 2: Snapshot of the structure of the ground truth/validation data that time shift results are compared against.*
 
