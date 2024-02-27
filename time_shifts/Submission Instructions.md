@@ -72,6 +72,6 @@ An automated results report containing the following metrics is returned followi
 
 *Figure 4: Error distribution of algorithm results, color-coded by time frequency of the input time series.*
 
-![image info](./histogram-mae-data-freq.png)
+![image info](./run_time_dist.png)
 
 *Figure 5: Distribution of algorithm run times on individual time series data streams, in seconds.*
