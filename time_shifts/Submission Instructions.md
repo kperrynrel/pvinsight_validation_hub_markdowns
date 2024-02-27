@@ -16,6 +16,8 @@ An example time series and its associated time shift data are shown in Figures 1
 
 *Figure 2: Snapshot of the structure of the ground truth/validation data that time shift results are compared against.*
 
+Download an example data set here.
+
 ### File Submission Requirements
 
 The PV Validation Hub only accepts .zip file submissions. Each zip file must containing the following files:
