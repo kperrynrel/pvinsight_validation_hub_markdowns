@@ -10,7 +10,7 @@ An example time series and its associated time shift data are shown in Figures 1
 
 ![image info](./time_series_data.PNG)
 
-*Figure 1; Snapshot of the structure of the time series data analyzed for time shifts.*
+*Figure 1: Snapshot of the structure of the time series data analyzed for time shifts.*
 
 ![image info](./time_series_validation_data.PNG)
 
